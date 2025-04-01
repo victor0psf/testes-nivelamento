@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "backend/venv/Scripts/python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "autopep8",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "vetur.validation.template": true,
+    "vetur.format.defaultFormatter.js": "prettier",
+    "editor.formatOnSave": true
+}
